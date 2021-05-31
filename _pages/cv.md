@@ -48,24 +48,24 @@ Education
 
 Work Experience
 ======
-* R&D Project Lead | GMS Technologies Ltda., Chile (2016-2020)
+* **R&D Project Lead** | GMS Technologies Ltda., Chile (2016-2020)
   * Designed an embedded datalogger system with radio communication and mining sensor interfaces, e.g. vibrating wire piezometer and time-domain reflectometer (TDR). Designed all schematics and PCBs, assembled
 all electronics and tested functionality and debugged using lab instrumentation. Supervised the development
 of FPGA description language to control TDR hardware, using Xilinx Vivado IPs and a custom IP in Verilog.
   * Directed a team of 5 interns to improve the electronic projects mentioned above (embedded datalogger, vibrating wire piezometer interface, time-domain reflectometer). Directed the design of a mid-range mechanical
 ventilator for COVID-19 paliative care, along a team of kinesiologists and interns.
-Project Engineer | Universidad del Desarrollo, Chile (2014-2016)
+* **Project Engineer** | Universidad del Desarrollo, Chile (2014-2016)
   * Technical Coordinator of the institutional alliance between Universidad del Desarrollo and Telefonica Chile
 (a major telecommunications company), which aimed to foster the creation and adoption of data-driven
 applications and supporting IoT technologies using both industry and academia efforts.
   * Coordinated projects related to technological innovation and lectured related courses and sessions.
-R&D Engineer | Pontifical Catholic University of Chile, Chile (2013-2014)
+* **R&D Engineer** | Pontifical Catholic University of Chile, Chile (2013-2014)
   * Designed a wireless sensor network testbed (schematics, PCBs, assembly, enclosure, mounts). Design was
 modular and considered micro-controller, battery management with solar panel, sensor interfaces, and RF
 communications.
   * Submitted two patent applications related to the methods and techniques developed during M.Sc. thesis work
 (CHI 201401980 and CHI 2015-00297).
-Management & Project Intern | GMS Technologies Ltda., Chile (2010-2011)
+* **Management & Project Intern** | GMS Technologies Ltda., Chile (2010-2011)
   * Helped in the design and development of sensor communication projects for the mining industry. Served
 as the bridge between Operations and Management teams. Involved with the projects’ high-level design,
 technical evaluation, planning, and overseeing their execution on-sit
