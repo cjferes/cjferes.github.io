@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-(empty line)
-[comment]: # <br/><img src='/images/image_project3.png'>
+<br/><img src='/images/500x300.png'>
 
 I am Carlos Feres and I am passionate about wireless communications and their potential to 
 
