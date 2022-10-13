@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/CFeres_pic_3.jpg'>
 
 I am Carlos Feres and I am passionate about wireless communications, signal processing, and their potential to improve our current technologies.
 
-My current research focuses on signal processing on manifolds. Other research topics can be found here.
+My current research focuses on collaborative detection and estimation, signal processing on manifolds, federated learning, and unsupervised MIMO user scheduling. Other research topics can be found here.
 
 I am currently a Postdoctoral Scholar in the Department of Electrical and Computer Engineering at UC Davis. 
 
