@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Feres"
-  avatar           : "profile.png"
+  avatar           : "CFeres_pic_3.jpg"
   bio              : "Ph.D. in Electrical and Computer Engineering, UC Davis"
   location         : "Davis, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=d8gGwOkAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=9IxGQesAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Carlos-Feres"
+  researchgate     : "https://www.researchgate.net/profile/Carlos-Feres"
   uri              :
   bitbucket        :
   codepen          :
